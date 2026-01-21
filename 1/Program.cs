@@ -10,7 +10,14 @@ namespace _1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Cambios");
+            int x = 1;
+            while (x<= 10) {
+
+            Console.WriteLine(x);
+                x++;
+                
         }
     }
+    }
 }
+
