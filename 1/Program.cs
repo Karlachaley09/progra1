@@ -10,7 +10,7 @@ namespace _1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("holis");
+            Console.WriteLine("Cambios");
         }
     }
 }
